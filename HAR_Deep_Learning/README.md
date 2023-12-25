@@ -14,6 +14,7 @@ The model was trained on data collected by the client. The final performance of 
 - Precision, Recall and F1 scores for all three activities: > 95%
 
 References:
-[Subject Independent Human Activity Recognition with Foot IMU Data](https://ieeexplore.ieee.org/document/9066010)
 
-[A CNN-LSTM Approach to Human Activity Recognition](https://ieeexplore.ieee.org/document/9065078)
+[1] [Subject Independent Human Activity Recognition with Foot IMU Data](https://ieeexplore.ieee.org/document/9066010)
+
+[2] [A CNN-LSTM Approach to Human Activity Recognition](https://ieeexplore.ieee.org/document/9065078)
