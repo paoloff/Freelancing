@@ -15,4 +15,5 @@ The model was trained on data collected by the client. The final performance of 
 
 References:
 [Subject Independent Human Activity Recognition with Foot IMU Data](https://ieeexplore.ieee.org/document/9066010)
+
 [A CNN-LSTM Approach to Human Activity Recognition](https://ieeexplore.ieee.org/document/9065078)
