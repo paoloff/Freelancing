@@ -1,1 +1,1 @@
-Human Activity Recognition using Deep Learning
+# Human Activity Recognition using Deep Learning
